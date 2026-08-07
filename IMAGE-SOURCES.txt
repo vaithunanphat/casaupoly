@@ -1,0 +1,31 @@
+IMAGE SOURCES
+
+Tất cả hình ảnh trong dự án này đều do người dùng cung cấp trực tiếp trong cuộc trò chuyện.
+Không có ảnh tải từ Internet.
+
+- logo-an-phat.jpg <- LOGO 2(2).jpg
+- dong-phuc-nha-hang-ca-sau-poly.webp <- Đồng phục nhà hàng bằng vải cá sấu Poly.png
+- dong-phuc-su-kien-ca-sau-poly.webp <- Đồng phục sự kiện may bằng vải cá sấu Poly.png
+- logo-theu-tren-ao-ca-sau-poly.webp <- logo thêu trên áo cá sấu poly.png
+- showroom-an-phat-01.webp <- 012.jpg
+- showroom-an-phat-02.webp <- 013.jpg
+- showroom-an-phat-03.webp <- 1783498956124_...jpg
+- showroom-an-phat-04.webp <- 1783498956153_...jpg
+- showroom-an-phat-05.webp <- 1783498956173_...jpg
+
+Lưu ý:
+- bm.png và c4750713-a8be-4156-b41e-44056abc47bd.png không được dùng vì trên ảnh chỉ hiển thị một số điện thoại, theo yêu cầu của người dùng.
+
+ẢNH NHÀ XƯỞNG BỔ SUNG CHO BẢN V3
+- nha-xuong-an-phat-01.webp <- MỘC 1.jpg
+- nha-xuong-an-phat-02.webp <- MỘC 2.jpg
+- nha-xuong-an-phat-03.webp <- MỘC 05.jpg
+- nha-xuong-an-phat-04.webp <- MỘC 07.jpg
+- nha-xuong-an-phat-05.webp <- MỘC 08.jpg
+- nha-xuong-an-phat-06.webp <- MỘC 09.jpg
+- nha-xuong-an-phat-07.webp <- MỘC 10.jpg
+- nha-xuong-an-phat-08.webp <- MỘC CS POLY.jpg
+- nha-xuong-an-phat-09.webp <- MỘC SỢI 06.jpg
+- nha-xuong-an-phat-10.webp <- SỢI 01.jpg
+- nha-xuong-an-phat-11.webp <- SỢI 2.jpg
+- nha-xuong-an-phat-12.webp <- SỢI MỘC 3.jpg
